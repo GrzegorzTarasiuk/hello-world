@@ -1,4 +1,4 @@
 # hello-world
 
 Hello,
- Grzegorz here, I like physics and programing.
+ Grzegorz here. I like physics and programing.
